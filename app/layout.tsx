@@ -28,7 +28,7 @@ export default function RootLayout({
         />
         <meta
           name="description"
-          content="A premier web design company based in Orange County. Birstreet.co specializes in frontend development, ux design and web hosting. Email us at hi@birdstreet.co"
+          content="A premier web design company based in Orange County. Birdstreet.co specializes in frontend development, ux design and web hosting. Email us at hi@birdstreet.co"
         />
         <meta
           name="keywords"

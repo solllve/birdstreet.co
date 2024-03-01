@@ -119,7 +119,6 @@ export const Hero = ({ theme }: HeroTypes) => {
                     "birdstreet",
                     "web design",
                     "development",
-                    "sorcerery",
                     "consulting",
                     "ux design",
                   ],

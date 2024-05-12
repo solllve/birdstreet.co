@@ -224,7 +224,7 @@ export const Hero = ({ theme }: HeroTypes) => {
                   viewBox="0 0 48 17"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
-                  className="relative top-[2px]"
+                  className="relative top-[2px] mr-2"
                 >
                   <line y1="8.5" x2="47" y2="8.5" stroke="black" />
                   <line
